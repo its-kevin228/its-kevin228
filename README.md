@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=its-kevin228" alt="its-kevin228" /></a> </p>
 
-- 🌱 I’m currently learning **React native, flutter ,React**
+- 🌱 I’m currently learning **PHP, Flutter, C#**
 
 - 👨‍💻 All of my projects are available at [https://www.devcase.me/its-kevin228](https://www.devcase.me/its-kevin228)
 
